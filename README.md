@@ -1,4 +1,4 @@
-*# : strucggling to understand & imp
+*# : strucggling to understand & intresting
 
 # experince-error-sol
 
