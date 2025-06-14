@@ -1,4 +1,6 @@
-(login)lo.g.i.n is first message. (heart beat). afanet
+(login)lo.g.i.n is first message. (heart beat). 
+
+pb : how send letters in mulktiple sytem,
 
 
 
@@ -8,3 +10,10 @@
 
 
 -sending to different or multiple sytem. ip/tcp born
+
+
+<img width="370" alt="Screenshot 2025-06-14 at 12 43 52 PM" src="https://github.com/user-attachments/assets/640f6437-67b0-465b-a4af-5edc43492535" />
+
+
+-Internet or Alphanet had limited aces
+pb : not everone can acess it
