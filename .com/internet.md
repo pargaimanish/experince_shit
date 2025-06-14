@@ -21,3 +21,12 @@ pb : not everone can acess it
 
 
 www, html, http born (britsit tim berner lee)
+
+
+
+that time ip assin as IPv4, or Internet Protocol version 4.
+192.0.2.126
+
+pb:  user incrses, rem IPv4 get harder -> DNS born
+
+(bit calulation log )
