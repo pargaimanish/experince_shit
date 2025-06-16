@@ -18,6 +18,9 @@ look for help
                     Mention what solutions you've tried so far and why they didn't work.
                     
                     Investigate and show that you've done research about the problem. Even though asking for help is totally ok, I think you have to first evacuate the more obvious and easy paths before asking someone else to do the thinking for you. That means that you've analyzed your code, googled the problem, read other solutions and official documentation, tried many approaches and none of them worked. Only then is it acceptable to ask someone else for help. I think this is a matter of being able to independently learn and solve problems, and also respect other people's time.
+![Uploading Screenshot 2025-06-16 at 12.44.29 PM.png…]()
+
+                    
                     
                     Mention the documentation you've consulted about this topic and what does that documentation say about it.
                     
