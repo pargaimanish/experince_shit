@@ -28,3 +28,10 @@ look for help
 
     stack. answer your own question. if(asnwer found)
       DRY, KISS and SOLID principles
+
+
+check
+
+How to Use Console.log to Debug Code
+Automated Testing for error
+
