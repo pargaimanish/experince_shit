@@ -6,7 +6,7 @@ https://www.machinelearningplus.com/deployment/conda-create-environment-and-ever
 
          " conda create --name {env_name} {python==3.7.5} "
 
-  but for getting version
+  but for getting py version 
   https://www.geeksforgeeks.org/machine-learning/set-up-virtual-environment-for-python-using-anaconda/
            
            " conda search "^python$" "
