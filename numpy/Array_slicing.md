@@ -10,3 +10,10 @@ and with ",0" arr=[1,2] means get elements on 0th means 1st coloumn...
                  
                  "xSorted = pts[np.argsort(pts[:, 0]), :]" 
 
+
+arr[1:5:2] 
+
+                 arr[start:end:steps]
+
+arr=[1,2,3,4,5,6] 
+output arr[1:5:2] is [2,4]  index 1 include till index 5
