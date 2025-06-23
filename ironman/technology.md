@@ -10,3 +10,8 @@ parten:-
                  
                  "If I believe that I already know the answer and possess the truth, then I'm not genuinely open to learning larger truths."
 
+ideologies,belivies, norms holds back. avoiding ideologies directly perpospnal to innovation. 
+then you are open to trail & error and not limited by  others experience. 
+maybe be that work in past. and maybe not work in now.
+
+
