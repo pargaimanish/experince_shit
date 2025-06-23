@@ -14,4 +14,6 @@ ideologies,belivies, norms holds back. avoiding ideologies directly perpospnal t
 then you are open to trail & error and not limited by  others experience. 
 maybe be that work in past. and maybe not work in now.
 
+2nd kill all demon process
 
+noises 
