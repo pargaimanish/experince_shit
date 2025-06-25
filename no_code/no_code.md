@@ -14,5 +14,7 @@ Sol: Say no and
                                      "Remember that there is no code faster than no code."
 
 
-
+            “People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are... I’m actually as proud of the things we haven’t done as the things I have done...” 
+            
+            — Steve Jobs
 
