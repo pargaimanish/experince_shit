@@ -1,0 +1,76 @@
+(base) manishpargai@saranga g % git add .
+
+(base) manishpargai@saranga g % git commit -m "menu simple with filter"
+                  
+(base) manishpargai@saranga g % git push origin master
+               
+(base) manishpargai@saranga g % git add .
+
+(base) manishpargai@saranga g % git push origin master
+
+(base) manishpargai@saranga g % git commit -m "menu simple with filter"
+
+(base) manishpargai@saranga g % git push origin master
+                      To https://github.com/pargaimanish/experince.git
+                      ! [rejected]        master -> master (fetch first)
+                      error: failed to push some refs to 'https://github.com/pargaimanish/experince.git'
+                      hint: Updates were rejected because the remote contains work that you do
+                      hint: not have locally. This is usually caused by another repository pushing
+                      hint: to the same ref. You may want to first integrate the remote changes
+                      hint: (e.g., 'git pull ...') before pushing again.
+                      hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(base) manishpargai@saranga g % git commit -m "menu simple with filter"
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+
+(base) manishpargai@saranga g % git remote add origin git@github.com:pargaimanish/experince.git
+         error: remote origin already exists.
+
+(base) manishpargai@saranga g % git push origin master
+                            remote: Support for password authentication was removed on August 13, 2021.
+                            remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+                            fatal: Authentication failed for 'https://github.com/pargaimanish/experince.git/'
+(base) manishpargai@saranga g % git push origin master
+                              To https://github.com/pargaimanish/experince.git
+                               ! [rejected]        master -> master (fetch first)
+                              error: failed to push some refs to 'https://github.com/pargaimanish/experince.git'
+                              hint: Updates were rejected because the remote contains work that you do
+                              hint: not have locally. This is usually caused by another repository pushing
+                              hint: to the same ref. You may want to first integrate the remote changes
+                              hint: (e.g., 'git pull ...') before pushing again.
+                              hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(base) manishpargai@saranga g % git add .
+(base) manishpargai@saranga g % git commit -m "menu simple with filter"
+              On branch master
+              Your branch is ahead of 'origin/master' by 2 commits.
+                (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+(base) manishpargai@saranga g % git pull --rebase origin master
+                      remote: Enumerating objects: 10, done.
+                      remote: Counting objects: 100% (10/10), done.
+                      remote: Compressing objects: 100% (9/9), done.
+                      remote: Total 9 (delta 5), reused 0 (delta 0), pack-reused 0 (from 0)
+                      Unpacking objects: 100% (9/9), 4.60 KiB | 314.00 KiB/s, done.
+                      From
+                     * branch            master     -> FETCH_HEAD
+                       1232ASDA3..aH31HJ2  master     -> origin/master
+                      Successfully rebased and updated refs/heads/master.
+(base) manishpargai@saranga g % git push origin master
+                  Enumerating objects: 29, done.
+                  Counting objects: 100% (29/29), done.
+                  Delta compression using up to 8 threads
+                  Compressing objects: 100% (18/18), done.
+                  Writing objects: 100% (18/18), 6.54 KiB | 6.54 MiB/s, done.
+                  Total 18 (delta 11), reused 0 (delta 0), pack-reused 0
+                  remote: Resolving deltas: 100% (11/11), completed with 7 local objects.
+                  remote: 
+                  remote: GitHub found 1 vulnerability on pargaimanish/experince's default branch (1 low). To find out more, visit:
+                  remote:      https://github.com/pargaimanish/experince/security/dependabot/3
+                  remote: 
+                  To https://github.com/manissh/experince.git
+  
