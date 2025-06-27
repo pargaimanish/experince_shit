@@ -1,0 +1,8 @@
+https://codebhaiya.com/blog/how-to-install-and-configure-mongodb-for-production
+
+for authenticationDatabase:
+mongosh --port 27017 --authenticationDatabase "database_name_where_user_stored" -u "username" -p "password"
+
+for db test:
+mongosh --port 27017 --authenticationDatabase  -u "username" -p "password"
+
