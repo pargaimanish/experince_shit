@@ -1,0 +1,6 @@
+git pull
+
+error: 
+app.js: needs merge or error: Pulling is not possible because you have unmerged files. or 502 
+
+sol: git reset --hard HEAD
