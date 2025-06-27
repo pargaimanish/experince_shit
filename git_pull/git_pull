@@ -1,6 +1,8 @@
 git pull
 
-error: 
+error:  
 app.js: needs merge or error: Pulling is not possible because you have unmerged files. or 502 
+https://github.com/pargaimanish/experince_shit/tree/aa421daec4fc5e0aebb99f840b5ba1fdbb464cad/502_Bad_G 
+(502 came from not running appy.js and appy.js not running bec <<<<<<<<<<<<)
 
 sol: git reset --hard HEAD
