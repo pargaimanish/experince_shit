@@ -14,6 +14,40 @@ ideologies,belivies, norms holds back. avoiding ideologies directly perpospnal t
 then you are open to trail & error and not limited by  others experience. 
 maybe be that work in past. and maybe not work in now.
 
+
+
+
 2nd kill all demon process
 
-noises 
+        noises. of family. socitey. social media. hold of anger surpress our own inner voice.
+        and any things that run in background.
+        
+        noises killers: going to nature. focus on breath. till you get your voice. 
+        (+swimming and meaningful talk with good listener)
+        
+        i really agree with pauls remark of killing the demons.
+        because listing to your own inner voice, taking fast decision and taking full responsiblity of it.
+        is the way.
+        
+        (fast decision and  full responsiblity words are of sam manik swa -- and without any doubt. agree with it )
+         and its oky to be weried and different. not following  (social shit).
+
+         and contry like India(Developing nations).  much/strong noices. culturlarl,natinal,regional...
+         
+         but much noises. strong focus on breath.
+         
+         {it same like every anger is operchunity to over come it.
+         and more noices. help build strong focus}
+        (if you are will to focus)
+         
+        
+
+        
+
+
+
+
+
+
+
+
