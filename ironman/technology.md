@@ -34,7 +34,7 @@ maybe be that work in past. and maybe not work in now.
 
          and contry like India(Developing nations).  much/strong noices. culturlarl,natinal,regional...
          
-         but much noises. strong focus on breath.
+         but strong noises. strong focus 
          
          {it same like every anger is operchunity to over come it.
          and strong noices.   strong focus
