@@ -37,7 +37,7 @@ maybe be that work in past. and maybe not work in now.
          but much noises. strong focus on breath.
          
          {it same like every anger is operchunity to over come it.
-         and more noices. help build strong focus}
+         and strong noices.   strong focus
         (if you are will to focus)
          
         https://youtu.be/j64SctPKmqk?si=lvo2mWwlKQs1qUE-
