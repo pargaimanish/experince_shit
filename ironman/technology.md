@@ -40,8 +40,10 @@ maybe be that work in past. and maybe not work in now.
          and more noices. help build strong focus}
         (if you are will to focus)
          
+        https://youtu.be/j64SctPKmqk?si=lvo2mWwlKQs1qUE-
+        captain oh captain! of dead poet. taugt same thing. when others putting there head down. 
+        and following nopise and you stand for your voice. unique voice...
         
-
         
 
 
