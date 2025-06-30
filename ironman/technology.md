@@ -37,7 +37,7 @@ maybe be that work in past. and maybe not work in now.
          but strong noises. strong focus 
          
          {it same like every anger is operchunity to over come it.
-         and strong noices.  make strong focus
+         and every noice.  is operchunity to be more focus
         (if you are will to focus)
          
         https://youtu.be/j64SctPKmqk?si=lvo2mWwlKQs1qUE-
