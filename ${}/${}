@@ -1,4 +1,7 @@
-   const dishHTML = `
+JavaScript template literal expression
+
+
+const dishHTML = `
                                 <div class='${dishClass}'>
                                     <span class="${dishClass}_edit" hidden>Edit🖋️</span>
                                     <h3 class='${dishClass}-dish-name'>${rrrr[i].dish_name || "N/A"}<span style="font-weight: normal; color: grey;"> - Rs${rrrr[i].price  || "N/A"}⬇</span></h3>
