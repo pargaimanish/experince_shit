@@ -1,0 +1,9 @@
+   const dishHTML = `
+                                <div class='${dishClass}'>
+                                    <span class="${dishClass}_edit" hidden>Edit🖋️</span>
+                                    <h3 class='${dishClass}-dish-name'>${rrrr[i].dish_name || "N/A"}<span style="font-weight: normal; color: grey;"> - Rs${rrrr[i].price  || "N/A"}⬇</span></h3>
+                                    <div class='${dishClass}-p'>
+                                        <p class='${dishClass}-description'>${rrrr[i].description || "description...✍"}</p>
+                                        <img scr=${rrrr[i].description} alt=""></div>
+                                </div>
+                            `;
