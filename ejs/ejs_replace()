@@ -1,0 +1,3 @@
+ <%= shirt.check.replace('-','_') %>   <!--replace first - with _ -->
+ <%= shirt.check.replace(/-/g,'_') %>  <!-- replace globle - with _  (mtlb sare - ko replace kadhe gha _ she)-->
+
