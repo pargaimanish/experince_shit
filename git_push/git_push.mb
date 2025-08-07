@@ -3,6 +3,8 @@
 (base) manishpargai@saranga g % git commit -m "menu simple with filter"
                   
 (base) manishpargai@saranga g % git push origin master
+
+cd app
                
 (base) manishpargai@saranga g % git add .
 
