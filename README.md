@@ -19,3 +19,4 @@ error: Please commit or stash them.}
          https://www.mongodb.com/docs/manual/reference/operator/query/
 
         
+deploy read this shit https://stackoverflow.com/questions/36782467/set-subdirectory-as-website-root-on-github-pages
