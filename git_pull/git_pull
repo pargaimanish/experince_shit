@@ -6,3 +6,9 @@ https://github.com/pargaimanish/experince_shit/tree/aa421daec4fc5e0aebb99f840b5b
 (502 came from not running appy.js and appy.js not running bec <<<<<<<<<<<<)
 
 sol: git reset --hard HEAD
+
+https://stackoverflow.com/questions/23517464/error-cannot-pull-with-rebase-you-have-unstaged-changes
+Error: Cannot pull with rebase: You have unstaged changes
+
+sol:git reset --hard
+
