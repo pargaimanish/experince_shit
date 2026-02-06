@@ -1,0 +1,73 @@
+"proxy_pass" directive is duplicate 
+
+Solved, used the following command:
+
+   sudo grep -ri 'proxy_pass' /etc/nginx/
+    //Found the duplicate and deleted it.
+
+
+1️⃣ sudo
+
+Runs the command as root (superuser).
+Needed because many files inside /etc/nginx/ are not readable by normal users.
+
+2️⃣ grep
+
+Stands for Global Regular Expression Print.
+Used to search for text inside files.
+
+3️⃣ -r
+
+Recursive search.
+Tells grep to search all files inside /etc/nginx/ and its subdirectories.
+
+This includes:
+nginx.conf
+sites-available/
+sites-enabled/
+
+any included .conf files
+
+4️⃣ -i
+
+Case-insensitive search.
+
+Matches:
+
+proxy_pass
+Proxy_Pass
+PROXY_PASS
+
+Useful when you’re not sure about casing.
+
+5️⃣ 'proxy_pass'
+
+The search pattern.
+proxy_pass is an Nginx directive used for reverse proxying (common in Node.js, APIs, upstream servers).
+
+6️⃣ /etc/nginx/
+
+The directory to search in.
+
+This is where all Nginx configuration files live.
+
+🔍 What this command does (in plain English)
+
+“Search through all Nginx config files, ignoring case, and show me every place where proxy_pass is used, even inside nested folders.”
+
+🧠 Typical output example
+/etc/nginx/sites-enabled/default:    proxy_pass http://localhost:3000;
+/etc/nginx/conf.d/api.conf:           proxy_pass http://127.0.0.1:4000;
+
+
+Each line shows:
+
+file_path : matching_line
+
+🔥 Handy upgrades (optional)
+
+If you want line numbers:
+
+sudo grep -rin 'proxy_pass' /etc/nginx/
+
+
