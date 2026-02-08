@@ -12,3 +12,10 @@ Error: Cannot pull with rebase: You have unstaged changes
 
 sol:git reset --hard
 
+
+if:
+     error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them.
+      want to keep the local change:
+          git add .
+          git commit -m "WIP: local changes"
+          git pull --rebase
